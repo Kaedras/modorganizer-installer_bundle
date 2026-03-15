@@ -1,7 +1,4 @@
 
-if(UNIX)
-    find_package(OpenGL REQUIRED)
-endif()
 find_package(mo2-cmake CONFIG REQUIRED)
 find_package(mo2-uibase CONFIG REQUIRED)
 
